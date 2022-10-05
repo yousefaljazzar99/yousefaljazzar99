@@ -15,11 +15,11 @@ Focus on details when developing applications, ensuring you get the best design 
 
 👨‍💻 I am really enthusiastic about learning new technology. In 2022, I learned **Flutter**, **REST APIs**, **Firebase**, **SQL**, **JSON**, **Adobe XD** , **State management Getx** and **state management provider**. I started [**Freelancing**](https://mostaql.com/u/joseph_n_j) recently and made a name for myself.
 
-💪 My Goal:
+💪 **My Goal:**
 
 Achieve the highest satisfaction for my clients integrated with success in their business by providing the best quality iOS and Android mobile applications for your business using the flutter framework.
 
-✨ My Services:
+✨ **My Services:**
 
 ✅ Build Native Mobile Application For Both Android and IOS.
 
@@ -29,7 +29,7 @@ Achieve the highest satisfaction for my clients integrated with success in their
 
 ✅ Providing live mentoring on specific topics to fix bugs or improve your code to match the best practice criteria.
 
-✨ Personal Qualities:
+✨ **Personal Qualities:**
 
 ✅ Ability to understand business requirements and translate them into technical requirements.
 
@@ -42,11 +42,11 @@ Achieve the highest satisfaction for my clients integrated with success in their
 
 ✨ Transparency Matters! I'll make sure that you will always be informed about what is going on, So I will be working with you over Trello, Collaborative design files, or any Management tool you might have
 
-📬 Contact Info:
+📬 **Contact Info:**
 
-WhatsApp: https://wa.me/+972595659707
+**WhatsApp:** https://wa.me/+972595659707
 
-Email: Yousef.n.Aljazzar@gmail.com
+**Email:** Yousef.n.Aljazzar@gmail.com
 
 
 ## 🏅 Achievements
@@ -60,7 +60,7 @@ Email: Yousef.n.Aljazzar@gmail.com
 
 ![Dart](https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=DART&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![java](https://img.shields.io/badge/java-FF7800?style=for-the-badge&logo=java&logoColor=white)
+![java](https://img.shields.io/badge/java-FF7800?style=for-the-badge&logo=CoffeeScript&logoColor=white)
 
 
 ### Mobile Development
@@ -78,7 +78,7 @@ Email: Yousef.n.Aljazzar@gmail.com
 ![Responsive Ui ](https://img.shields.io/badge/Responsive%20Ui-5A0FC8?style=for-the-badge&logo=Responsive&logoColor=white)
 ![Google Maps ](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=Google%20Maps&logoColor=white)
 ![Clean Code ](https://img.shields.io/badge/Clean%20Code-0078D6?style=for-the-badge&logo=Windows%20Terminal&logoColor=white)
-![Databases](https://img.shields.io/badge/Databases-01B4E4?style=for-the-badge&logo=Databases&logoColor=white)=
+![Databases](https://img.shields.io/badge/Databases-01B4E4?style=for-the-badge&logo=Databases&logoColor=white)
 ![REST API ](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=REST%20API&logoColor=white)
 ![MySQL ](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
