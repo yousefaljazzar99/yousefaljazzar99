@@ -18,32 +18,33 @@ Achieve the highest satisfaction for my clients integrated with success in their
 
 ⚒️ **My Services:**
 
-1️⃣ Build Native Mobile Application For Both Android and IOS.
+- [✅] Build Native Mobile Application For Both Android and IOS.
 
-2️⃣ Analysis, design, development, and Maintain existing Applications.
+- [✅] Analysis, design, development, and Maintain existing Applications.
 
-3️⃣ Provide technical support for Live Applications.
+- [✅] Provide technical support for Live Applications.
 
-4️⃣ Providing live mentoring on specific topics to fix bugs or improve your code to match the best practice criteria.
+- [✅] Providing live mentoring on specific topics to fix bugs or improve your code to match the best practice criteria.
+
 
 👤 **Personal Qualities:**
 
-1️⃣ Ability to understand business requirements and translate them into technical requirements.
+- [✅] Ability to understand business requirements and translate them into technical requirements.
 
-2️⃣ Focus on moving the business forward.
+- [✅] Focus on moving the business forward.
 
-3️⃣ High level of self-organization, Passion for quality, and batten detail details.
+- [✅] High level of self-organization, Passion for quality, and batten detail details.
 
-4️⃣ Up-to-date with the latest Development trends, techniques, and technologies.
+- [✅] Up-to-date with the latest Development trends, techniques, and technologies.
 
 
 ✨ Transparency Matters! I'll make sure that you will always be informed about what is going on, So I will be working with you over Trello, Collaborative design files, or any Management tool you might have
 
 📬 **Contact Info:**
 
-**WhatsApp:** https://wa.me/+972595659707
+- [✅] **WhatsApp:** https://wa.me/+972595659707
 
-**Email:** Yousef.n.Aljazzar@gmail.com
+- [✅] **Email:** Yousef.n.Aljazzar@gmail.com
 
 
 ## 🏅 Achievements
