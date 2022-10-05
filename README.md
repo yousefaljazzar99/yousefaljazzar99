@@ -78,7 +78,7 @@ Achieve the highest satisfaction for my clients integrated with success in their
 ![Responsive Ui ](https://img.shields.io/badge/Responsive%20Ui-5A0FC8?style=for-the-badge&logo=Responsive&logoColor=white)
 ![Google Maps ](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=Google%20Maps&logoColor=white)
 ![Clean Code ](https://img.shields.io/badge/Clean%20Code-0078D6?style=for-the-badge&logo=Windows%20Terminal&logoColor=white)
-![Databases](https://img.shields.io/badge/Databases-01B4E4?style=for-the-badge&logo=Databases&logoColor=white)
+![Databases](https://img.shields.io/badge/Databases-01B4E4?style=for-the-badge&logo=ONLYOFFICE&logoColor=white)
 ![REST API ](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=REST%20API&logoColor=white)
 ![MySQL ](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
