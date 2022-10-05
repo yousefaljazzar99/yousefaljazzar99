@@ -55,13 +55,13 @@ Achieve the highest satisfaction for my clients integrated with success in their
 
 ### Languages
 
-![Dart](https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=DART&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![java](https://img.shields.io/badge/java-FF7800?style=for-the-badge&logo=CoffeeScript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
+![javascript](https://img.shields.io/badge/JavaScript-Language-FF7800?logo=javascript)
+![java](https://img.shields.io/badge/Java-Language-FF7800?logo=CoffeeScript)
 
 
 ### Mobile Development
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
 ![Null Safety](https://img.shields.io/badge/Null%20Safety-252B2D?style=for-the-badge&logo=Null%20Safety&logoColor=white)
