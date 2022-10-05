@@ -1,17 +1,14 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## 🚀 About Me
-✨ My applications are a piece of art that will give your business a simple and effective solution. — With exceptional creativity and great passion, I help people and businesses bring their ideas to life on any phone, let me help you!
-
+👌 My applications are a piece of art that will give your business a simple and effective solution. — With exceptional creativity and great passion, I help people and businesses bring their ideas to life on any phone, let me help you!
 
 🎓 I am Yousef Aljazzar, a **Mobile Developer** (specializing in **Flutter Mobile Developer**).
 I also finished my Bachelor's degree in **Computer Systems Engineering** and graduated in mid 2022.
 
-
-✨ Meticulous Flutter Mobile Developer with professional experience delivering successful apps.
+🙋‍♂️ Meticulous Flutter Mobile Developer with professional experience delivering successful apps.
 I always like to take on challenges, work on software issues, and keep up with the evolution of mobile apps.
 Focus on details when developing applications, ensuring you get the best design and performance.
-
 
 👨‍💻 I am really enthusiastic about learning new technology. In 2022, I learned **Flutter**, **REST APIs**, **Firebase**, **SQL**, **JSON**, **Adobe XD** , **State management Getx** and **state management provider**. I started [**Freelancing**](https://mostaql.com/u/joseph_n_j) recently and made a name for myself.
 
@@ -19,25 +16,25 @@ Focus on details when developing applications, ensuring you get the best design 
 
 Achieve the highest satisfaction for my clients integrated with success in their business by providing the best quality iOS and Android mobile applications for your business using the flutter framework.
 
-✨ **My Services:**
+⚒️ **My Services:**
 
-✅ Build Native Mobile Application For Both Android and IOS.
+1️⃣ Build Native Mobile Application For Both Android and IOS.
 
-✅ Analysis, design, development, and Maintain existing Applications.
+2️⃣ Analysis, design, development, and Maintain existing Applications.
 
-✅ Provide technical support for Live Applications.
+3️⃣ Provide technical support for Live Applications.
 
-✅ Providing live mentoring on specific topics to fix bugs or improve your code to match the best practice criteria.
+4️⃣ Providing live mentoring on specific topics to fix bugs or improve your code to match the best practice criteria.
 
-✨ **Personal Qualities:**
+👤 **Personal Qualities:**
 
-✅ Ability to understand business requirements and translate them into technical requirements.
+1️⃣ Ability to understand business requirements and translate them into technical requirements.
 
-✅ Focus on moving the business forward.
+2️⃣ Focus on moving the business forward.
 
-✅ High level of self-organization, Passion for quality, and batten detail details.
+3️⃣ High level of self-organization, Passion for quality, and batten detail details.
 
-✅ Up-to-date with the latest Development trends, techniques, and technologies.
+4️⃣ Up-to-date with the latest Development trends, techniques, and technologies.
 
 
 ✨ Transparency Matters! I'll make sure that you will always be informed about what is going on, So I will be working with you over Trello, Collaborative design files, or any Management tool you might have
