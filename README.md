@@ -16,13 +16,41 @@ I also finished my Bachelor's degree in **Computer Systems Engineering** and gra
 
 ## 🛠️ Skills
 
+![Dart](https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=DART&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
+![Multi theme App ](https://img.shields.io/badge/Multi%20theme%20App-0175C2?style=for-the-badge&logo=Multi%20theme%20App&logoColor=white)
+![Multi language App ](https://img.shields.io/badge/Multi%20language%20App-0175C2?style=for-the-badge&logo=Microsoft%20Translator&logoColor=white)
+![Google Maps ](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=Google%20Maps&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
+![Json](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+![Databases](https://img.shields.io/badge/Databases-01B4E4?style=for-the-badge&logo=Databases&logoColor=white)=
+![REST API ](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=REST%20API&logoColor=white)
+![MySQL ](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Visual Studio Code ](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Microsoft Office ](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=Microsoft%20Office&logoColor=white)
+![Project Management ](https://img.shields.io/badge/Project%20Management-302683?style=for-the-badge&logo=Project%20Management&logoColor=white)
+![Clean Code ](https://img.shields.io/badge/Clean%20Code-0078D6?style=for-the-badge&logo=Windows%20Terminal&logoColor=white)
+
+
+
+
+
+
 ### Languages
 
 
 ![Dart](https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=DART&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
-
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![java](https://img.shields.io/badge/java-FF7800?style=for-the-badge&logo=java&logoColor=white)
 
 
 ### Mobile Development
@@ -30,16 +58,15 @@ I also finished my Bachelor's degree in **Computer Systems Engineering** and gra
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Json](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![provider](https://img.shields.io/badge/provider-FF7800?style=for-the-badge&logo=provider&logoColor=white)
+![Getx](https://img.shields.io/badge/GETX-E6000F?style=for-the-badge&logo=GETX&logoColor=white)
+
+
+
 
 
 
