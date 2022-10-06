@@ -1,4 +1,8 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">, I'm <a href="https://www.linkedin.com/in/yousef-aljazzar/">Yousef Aljazzar!</a></h1>
+
+<h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
+
+
 
 ## 🚀 About Me
 👌 My applications are a piece of art that will give your business a simple and effective solution. — With exceptional creativity and great passion, I help people and businesses bring their ideas to life on any phone, let me help you!
