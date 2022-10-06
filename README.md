@@ -143,7 +143,7 @@ Achieve the highest satisfaction for my clients integrated with success in their
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/972595659707)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=TELEGRAM&logoColor=white)](https://t.me/YousefAljazzar99)
 [![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mr_Yousef_99)
-[![Discord](https://img.shields.io/discord/691415097670631474?logo=discord&style=social](https://discord.com/invite/GBF5D4QN)
+[![Discord](https://img.shields.io/discord/691415097670631474?logo=discord&style=social)](https://discord.com/invite/GBF5D4QN)
 [![Resume](https://img.shields.io/badge/RESUME-8CA1AF?style=for-the-badge&logo=Read%20the%20Docs&logoColor=white)](https://d1fdloi71mui9q.cloudfront.net/a4mQBz7ShehhAwbbGgHf_Resume_Flutter_Yousef.pdf)
 [![University Certificate ](https://img.shields.io/badge/University%20certificate-EC1C24?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](https://drive.google.com/file/d/1ph4y4YMTwnjqUDkp-wb00g96UJ8W3fDG/view?usp=sharing)
 
