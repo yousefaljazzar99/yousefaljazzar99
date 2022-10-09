@@ -1,3 +1,6 @@
+![Blue Yellow Simple Entrepreneur LinkedIn Banner  (1)](https://user-images.githubusercontent.com/49205538/194747446-a153be54-bde1-4b3e-a4fd-767b23f119f8.png)
+
+
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">, I'm <a href="https://www.linkedin.com/in/yousef-aljazzar/">Yousef Aljazzar!</a></h1>
 
 <h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
